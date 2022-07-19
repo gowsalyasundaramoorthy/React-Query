@@ -1,0 +1,98 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": 3,
+      "name": "Wonder Woman",
+      "alterEgo": "Princess Diana"
+    },
+    {
+      "name": "TheFlash",
+      "alterEgo": "Barry allen",
+      "id": 4
+    },
+    {
+      "name": "Cat women",
+      "alterEgo": "Billy watson",
+      "id": 5
+    },
+    {
+      "name": "Aquaman",
+      "alterEgo": "Harry",
+      "id": 6
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "John Snow"
+    },
+    {
+      "id": 2,
+      "name": "Donald duck"
+    },
+    {
+      "id": 3,
+      "name": "Arnold swazhinger"
+    }
+  ],
+  "users": [
+    {
+      "id": "Gowsalya@gmail.com",
+      "channelId": "Selfcode"
+    }
+  ],
+  "channels": [
+    {
+      "id": "Selfcode",
+      "courses": [
+        "react",
+        "vue",
+        "angular"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "red"
+    },
+    {
+      "id": 2,
+      "label": "blue"
+    },
+    {
+      "id": 3,
+      "label": "green"
+    },
+    {
+      "id": 4,
+      "label": "yellow"
+    },
+    {
+      "id": 5,
+      "label": "black"
+    },
+    {
+      "id": 6,
+      "label": "white"
+    },
+    {
+      "id": 7,
+      "label": "orange"
+    },
+    {
+      "id": 8,
+      "label": "purple"
+    }
+  ]
+}
